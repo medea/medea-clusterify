@@ -1,0 +1,17 @@
+{
+  "name": "medea-clusterify-examples",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Examples for medea-clusterify.",
+  "main": "cluster.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Kevin Swiber <kswiber@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "argo-server": ">= 0.1.3",
+    "medea": ">= 0.0.3"
+  }
+}

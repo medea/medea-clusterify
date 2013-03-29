@@ -1,0 +1,29 @@
+{
+  "name": "medea-clusterify",
+  "version": "0.0.3",
+  "description": "Adds support for the cluster core API.",
+  "main": "clusterify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/argo/medea-clusterify.git"
+  },
+  "author": "Kevin Swiber <kswiber@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "readmeFilename": "README.md",
+  "directories": {
+    "example": "example"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "key",
+    "value",
+    "store",
+    "database",
+    "javascript",
+    "cluster"
+  ]
+}
