@@ -2,7 +2,7 @@
 
 Add support for Node's `cluster` core API.  Spawn many processes using only the master to access Medea.
 
-This is an addon for (Medea)[https://github.com/argo/medea], the all-JavaScript key-value store.
+This is an addon for [Medea](https://github.com/argo/medea), the all-JavaScript key-value store.
 
 ## Usage
 
